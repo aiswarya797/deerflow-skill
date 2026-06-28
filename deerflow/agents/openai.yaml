@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeerFlow"
+  short_description: "Run DeerFlow-style agent workflows"
+  default_prompt: "Use $deerflow to run a DeerFlow-style deep research workflow."
